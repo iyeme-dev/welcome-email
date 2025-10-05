@@ -1,4 +1,4 @@
-# 📧 Welcome Email Template
+# 📧 Welcome Email
 
 A professional and fully responsive HTML email template designed to deliver a warm welcome to new users. This template focuses on clean design, email-client compatibility, and mobile responsiveness — ensuring a positive first impression in any inbox.
 
@@ -228,4 +228,5 @@ The **Welcome Email Template** has been rigorously tested across devices and cli
 ## 👨‍💻 Author
 
 **Iyeme Salubi**  
+
 
